@@ -1,0 +1,17 @@
+.education_title{
+    color: #1773d4;
+    padding-bottom: 15px;
+}
+
+.education_card:hover{
+    transform: translateY(-3px);
+    transition: all .2s ease-in-out;
+    transform: scale(1.1);
+}
+
+
+@media(max-width: 500px){
+    .edCard{
+        padding: 0 20px 0 20px;
+    }
+}
