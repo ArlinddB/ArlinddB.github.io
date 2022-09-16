@@ -27,9 +27,11 @@ const Home = () => {
             />
           </div>
           <div className="resumeBtn">
-            <button className="resume">
-              <i class="fa-solid fa-file"></i>See My Resume
-            </button>
+            <a href="https://drive.google.com/file/d/1Ri2yH8zAbav7hLq7DhEWNu1I2YGmXb4Y/view?usp=sharing">
+              <button className="resume">
+                <i class="fa-solid fa-file"></i>See My Resume
+              </button>
+            </a>
           </div>
           <div className="icons">
             <a
