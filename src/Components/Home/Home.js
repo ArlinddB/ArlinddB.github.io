@@ -27,7 +27,7 @@ const Home = () => {
             />
           </div>
           <div className="resumeBtn">
-            <a href="https://drive.google.com/file/d/1Ri2yH8zAbav7hLq7DhEWNu1I2YGmXb4Y/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1pfxUxp3Tr3vdQm9aY5Jy97hgrsWqCegG/view?usp=share_link">
               <button className="resume">
                 <i class="fa-solid fa-file"></i>See My Resume
               </button>
